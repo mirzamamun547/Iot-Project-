@@ -4,9 +4,17 @@ A compact ESP32-based system to detect alcohol levels and vehicle accidents (imp
 
 
 
-[![Project Screenshot 1](https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot1.jpeg)](https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot1.jpeg)
-[![Project Screenshot 2](https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot2.jpeg)](https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot2.jpeg)
-[![Project Screenshot 3](https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot4.jpeg)](https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot4.jpeg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot1.jpeg">
+    <img src="https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot1.jpeg" width="250" alt="Project Screenshot 1" />
+  </a>
+  <a href="https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot2.jpeg">
+    <img src="https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot2.jpeg" width="250" alt="Project Screenshot 2" />
+  </a>
+  <a href="https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot4.jpeg">
+    <img src="https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot4.jpeg" width="250" alt="Project Screenshot 3" />
+  </a>
+</p>
 
 > Demo video
 
@@ -173,7 +181,7 @@ git merge upstream/main
 git push origin main
 ```
 
-Local build/upload (examples)
+Local build/upload (examples
 
 - Using PlatformIO (recommended if you use VSCode + PlatformIO extension):
 
@@ -195,7 +203,6 @@ Pull request guidelines
 - Keep changes focused and well-described.
 - Provide screenshots or logs for UI/behavior changes.
 - Ensure sensitive data (tokens/passwords) are not included.
-
 
 
 ## Acknowledgements
