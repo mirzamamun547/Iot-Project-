@@ -8,7 +8,7 @@ A compact ESP32-based system to detect alcohol levels and vehicle accidents (imp
 [![Project Screenshot 2](https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot2.jpeg)](https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot2.jpeg)
 [![Project Screenshot 3](https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot4.jpeg)](https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot4.jpeg)
 
-> Demo video: **Replace the link below with your Google Drive share link**
+> Demo video: https://drive.google.com/drive/folders/1Nqay9KylMgjOzTU0E7tJXp35u2ja-wNF?usp=sharing
 
 [Watch the project demo (Google Drive)](VIDEO_DRIVE_LINK)
 
