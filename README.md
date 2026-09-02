@@ -27,7 +27,7 @@ Table of contents
 - [Hardware](#hardware)
 - [Wiring / Pinout](#wiring--pinout)
 - [Software Requirements](#software-requirements)
-- [Configuration](#configuration)
+
 - [Usage](#usage)
 - [Calibration & Tuning](#calibration--tuning)
 - [Blynk Virtual Pins](#blynk-virtual-pins)
@@ -48,13 +48,12 @@ Table of contents
 - ESP32 development board
 - MQ-3 alcohol sensor (analog)
 - MPU6050 (I2C accelerometer + gyro)
-- GPS module (e.g., NEO-6M)
+- GPS module (NEO-6M)
 - 16x2 LCD (parallel interface)
 - Alert LED
 - Wires, breadboard, power supply
 
 ## Wiring / Pinout
-Pins are taken from the IOT.ino sketch (main branch). Adjust if you rewire.
 
 - MQ-3 (analog) -> ESP32 analog pin 36
 - Alert LED -> GPIO 13
@@ -71,7 +70,6 @@ Pins are taken from the IOT.ino sketch (main branch). Adjust if you rewire.
   - SDA -> GPIO 21
   - SCL -> GPIO 22
 
-Note: GPS is initialized on HardwareSerial(2) at 9600 bps.
 
 ## Software Requirements
 - Arduino IDE or PlatformIO
@@ -84,9 +82,6 @@ Note: GPS is initialized on HardwareSerial(2) at 9600 bps.
   - TinyGPSPlus
   - Wire
 
-## Configuration
-- Blynk template/token and WiFi credentials are present in IOT.ino. **Do not commit production tokens or passwords.**
-- Replace the placeholder VIDEO_DRIVE_LINK above with a Google Drive share link (set sharing to "Anyone with the link can view").
 
 ## Key parameters and defaults (from code)
 - MQ-3 pin: 36
