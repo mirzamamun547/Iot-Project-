@@ -2,15 +2,15 @@
 
 A compact ESP32-based system to detect alcohol levels and vehicle accidents (impact), show status on a 16x2 LCD, send telemetry to Blynk, and report GPS location and speed.
 
-<!-- Replace VIDEO_DRIVE_LINK with your Google Drive share link (must be set to "Anyone with the link can view"). -->
+
 
 [![Project Screenshot 1](https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot1.jpeg)](https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot1.jpeg)
 [![Project Screenshot 2](https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot2.jpeg)](https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot2.jpeg)
 [![Project Screenshot 3](https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot4.jpeg)](https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot4.jpeg)
 
-> Demo video: https://drive.google.com/drive/folders/1Nqay9KylMgjOzTU0E7tJXp35u2ja-wNF?usp=sharing
+> Demo video
 
-[Watch the project demo (Google Drive)](VIDEO_DRIVE_LINK)
+[Watch the project demo (Google Drive)](https://drive.google.com/drive/folders/1Nqay9KylMgjOzTU0E7tJXp35u2ja-wNF?usp=sharing)
 
 ---
 
@@ -26,7 +26,6 @@ Table of contents
 - [Serial Output / Debugging](#serial-output--debugging)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Features
@@ -197,8 +196,7 @@ Pull request guidelines
 - Provide screenshots or logs for UI/behavior changes.
 - Ensure sensitive data (tokens/passwords) are not included.
 
-## License
-Add a LICENSE file if you want to open-source this project. A common choice is MIT.
+
 
 ## Acknowledgements
 - Blynk
@@ -206,5 +204,3 @@ Add a LICENSE file if you want to open-source this project. A common choice is M
 - TinyGPSPlus
 
 ---
-
-If you'd like, I can commit this README.md to the repository now. I can also replace the placeholder VIDEO_DRIVE_LINK with a real Google Drive share link if you provide it, or remove the embedded Blynk token and WiFi credentials in IOT.ino and replace them with placeholders. What would you like me to do next?
