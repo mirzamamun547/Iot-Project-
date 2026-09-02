@@ -4,17 +4,7 @@ A compact ESP32-based system to detect alcohol levels and vehicle accidents (imp
 
 
 
-<p align="center">
-  <a href="https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot1.jpeg">
-    <img src="https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot1.jpeg" width="250" alt="Project Screenshot 1" />
-  </a>
-  <a href="https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot2.jpeg">
-    <img src="https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot2.jpeg" width="250" alt="Project Screenshot 2" />
-  </a>
-  <a href="https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot4.jpeg">
-    <img src="https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot4.jpeg" width="250" alt="Project Screenshot 3" />
-  </a>
-</p>
+<p align="center"> <a href="https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot1.jpeg"> <img src="https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot1.jpeg" width="300" alt="Project Screenshot 1" /> </a> <a href="https://github.com/mirzamamun547/Iot-Project-/blob/main/pictures/Screenshot%202026-07-07%20151013.png"> <img src="https://github.com/mirzamamun547/Iot-Project-/blob/main/pictures/Screenshot%202026-07-07%20151013.png" width="350" alt="Project Screenshot 2" /> </a> <br> <a href="https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot4.jpeg"> <img src="https://raw.githubusercontent.com/mirzamamun547/Iot-Project-/main/pictures/iot4.jpeg" width="250" alt="Project Screenshot 3" style="transform: rotate(90deg); margin: 50px;" /> </a> </p>
 
 > Demo video
 
